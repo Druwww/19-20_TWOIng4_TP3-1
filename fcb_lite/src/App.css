@@ -22,8 +22,7 @@
 }
 
 .BoutonProfil{
-  background-color: blue;
-  height: 10em;
-  width: 10em;
-  color: black;
+  float: right;
+  margin-top: 2em;
+  margin-right: 2em;
 }
