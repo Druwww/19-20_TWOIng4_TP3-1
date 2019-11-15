@@ -26,3 +26,51 @@
   margin-top: 2em;
   margin-right: 2em;
 }
+
+img{
+  margin: 2em;
+  width: 15em;
+  height: 15em;
+  border-radius: 50%;
+}
+
+.Bdark{
+  margin: 2em;
+  background-color: black;
+  width: 40em;
+  height: 30em;
+}
+
+.Bblue{
+  margin: 2em;
+  background-color: blue;
+  width: 40em;
+  height: 30em;
+}
+
+.Bred{
+  margin: 2em;
+  background-color: red;
+  width: 40em;
+  height: 30em;
+}
+
+.Borange{
+  margin: 2em;
+  background-color: orange;
+  width: 40em;
+  height: 30em;
+}
+
+.Bpurple{
+  margin: 2em;
+  background-color: purple;
+  width: 40em;
+  height: 30em;
+}
+
+p{
+  font-size: 2em;
+  color: aliceblue;
+  font-weight:bold;
+}
